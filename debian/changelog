@@ -1,3 +1,9 @@
+grub2-theme-nomad (1.2-1) nxos; urgency=medium
+
+  * Adjusting install config
+
+ -- Alexis Lopez Zubieta <azubieta90@gmail.com>  Wed, 22 Mar 2017 04:29:05 +0000
+
 grub2-theme-nomad (1.0-1) nxos; urgency=medium
 
   [ Alexis Lopez Zubieta ]
